@@ -1,2 +1,3 @@
 # MNPMSPST
-The We generate the MAVRP-SQTW data sets Solomon_2type by modifying the well-known Solomon’s instances (Solomon, 1987), which include six classes (i.e., R1, C1, RC1, R2, C2 and RC2) and 56 instances. Compared with instances of types R2, C2 and RC2, instances of types R1, C1 and RC1 have a smaller vehicle capacity and tighter time windows. Every instance contains 1 depot and 100 customers with information on coordinates, demands, time windows and service times.
+The MNPMSPST instance contains a small-scale set and a large-scale set, whcih are generated based on a production case in automobile manufacturing. The small-scale set includes 9 classes cases with K = {2,3,5},J = {10,20,30}. The large-scale set also includes 9 classes cases with K = {10,15,20},J = {50,80,100}. Every case contains the job information on index, processing time, type, pattern, setup time, initial setup time and quantity.
+
