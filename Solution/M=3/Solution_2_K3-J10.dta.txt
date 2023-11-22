@@ -1,0 +1,7 @@
+Machine: 9  
+Machine: 8  
+Machine: 7  
+Machine: 4  5  6  
+Machine: 0  
+Machine: 1  2  3  
+139.0
