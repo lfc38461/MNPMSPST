@@ -1,0 +1,5 @@
+Machine: 15  15  4  4  
+Machine: 14  1  
+Machine: 8  9  4  5  6  7  
+Machine: 10  11  12  13  0  1  2  3  
+267.0

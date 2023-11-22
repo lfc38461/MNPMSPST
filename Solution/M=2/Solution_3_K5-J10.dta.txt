@@ -1,0 +1,5 @@
+Machine: 7  5  
+Machine: 6  1  
+Machine: 0  1  2  3  5  
+Machine: 4  
+146.0
