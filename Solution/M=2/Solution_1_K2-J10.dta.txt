@@ -1,5 +1,0 @@
-Machine: 4  
-Machine: 2  5  5  
-Machine: 0  1  2  
-Machine: 1  2  3  
-138.9999999999998

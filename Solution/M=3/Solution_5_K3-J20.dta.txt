@@ -1,7 +1,0 @@
-Machine: 2  2  
-Machine: 9  9  
-Machine: 0  4  
-Machine: 8  4  5  5  
-Machine: 1  1  2  2  2  3  
-Machine: 4  6  6  7  
-235.0
